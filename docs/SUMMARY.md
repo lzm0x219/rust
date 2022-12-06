@@ -1,15 +1,7 @@
 # Summary
 
-[Introduction](README.md)
-
-- [My First Chapter](chapter_1.md)
-- [Nested example](nested/README.md)
-  - [Sub-chapter](nested/sub-chapter.md)
-
-# User Guide
-
-# Reference Guide
+[绪言](README.md)
 
 ---
 
-[Contributors](misc/contributors.md)
+[贡献者](misc/contributors.md)
