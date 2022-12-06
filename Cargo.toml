@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["packages/chapter_0", "packages/chapter_1"]

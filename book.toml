@@ -1,0 +1,32 @@
+[book]
+authors = ["0x219"]
+language = "zh-CN"
+multilingual = false
+src = "docs"
+title = "重生之我是Rust高手"
+
+[rust]
+edition = "2021"
+
+[build]
+build-dir = "book"
+create-missing = true
+use-default-preprocessors = true
+extra-watch-dirs = []
+
+[output.html]
+theme = "M"
+default-theme = "light"
+preferred-dark-theme = "navy"
+curly-quotes = true
+mathjax-support = false
+copy-fonts = true
+additional-css = ["custom.css", "custom2.css"]
+additional-js = ["custom.js"]
+no-section-label = false
+git-repository-url = "https://github.com/lzm0x219/rust"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/lzm0x219/rust/edit/main/{path}"
+site-url = "/"
+cname = "rust.0x219.com"
+input-404 = "404.md"
