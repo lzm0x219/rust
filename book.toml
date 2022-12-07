@@ -9,7 +9,7 @@ title = "重生之我是Rust高手"
 edition = "2021"
 
 [build]
-build-dir = "book"
+build-dir = "dist"
 create-missing = true
 use-default-preprocessors = true
 extra-watch-dirs = []
