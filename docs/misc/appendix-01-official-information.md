@@ -8,7 +8,12 @@
 
 ## Rust 工具链
 
-- [Cargo 手册]()
+- [RustUp 手册](https://rust-lang.github.io/rustup/) - Rust 版本管理工具
+- [RustC 手册](https://doc.rust-lang.org/stable/rustc/) - Rust 编译器手册
+- [Cargo 手册](https://doc.rust-lang.org/cargo/index.html) - Rust 包管理工具
+- `Cargo Doc` - Cargo 文档构建器让所有 API 都有文档
+- [Clippy](https://github.com/rust-lang/rust-clippy) - Rust 代码规范检查工具
+- [Rustfmt](https://github.com/rust-lang/rustfmt) - Rust 自动格式化工具
 
 ## Rust 深入浅出
 
